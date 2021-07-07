@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://sharp-benz-f29cb1.netlify.app"
 languageCode = "en-us"
 
 theme = "ananke"
