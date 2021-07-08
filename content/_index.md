@@ -3,8 +3,9 @@ title: "About"
 date: 2021-07-06T17:51:41+08:00
 draft: false
 ---
-
-*Fintern*: **Your guide to nailing the Finance Interview!**
+<h1>
+<div class="ba bw2 b--blue">Fintern: Your guide to nailing the Finance Interview!</div>
+</h1>
 
 1. *Do you struggle in formulating your original views about asset classes?* 
 
@@ -14,18 +15,24 @@ draft: false
 
 4. *Are you looking for a platform to publish your own views?* 
 
-Fintern is your solution. Fintern has been created by a fellow finance intern and inspired by mutual struggles. 
+Fintern is your solution. As a fellow finance intern, I created this website after going through the struggle of building commercial awareness. I have collated market news from sources that were recommended by industry professionals and I have also added my own tips/ views with each article. I have experienced that writing your own views on a public platform where 
+
+---
+
 Financial instituations are looking for individuals who are:
-- self starters 
 
-- well informed 
+- <p class="tl">self - starters </p>
 
-- passionate 
+- <p class="tl">well informed </p>
 
-- unique
+- <p class="tl">passionate </p>
 
-Using Fintern's resources will take you one step closer to your dream job!
+- <p class="tl">unique </p>
 
-#How will Fintern help you achieve these goals?#
+<h2>
+<p class="tl">How will Fintern help you achieve these goals? </p>
+</h2>
+
 ![table](Fintern.jpg)
+
 
