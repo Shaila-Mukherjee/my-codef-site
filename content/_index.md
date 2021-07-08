@@ -2,6 +2,7 @@
 title: "About"
 date: 2021-07-06T17:51:41+08:00
 draft: false
+
 ---
 <h1>
 <div class="ba bw2 b--blue">Fintern: Your guide to nailing the Finance Interview!</div>
@@ -33,6 +34,13 @@ Financial instituations are looking for individuals who are:
 <p class="tl">How will Fintern help you achieve these goals? </p>
 </h2>
 
+
+  
 ![table](Fintern.jpg)
+
+
+
+
+
 
 
