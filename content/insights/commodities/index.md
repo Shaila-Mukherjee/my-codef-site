@@ -1,7 +1,7 @@
 ---
 title: "Commodities"
 date: 2021-07-08T21:05:34+08:00
-draft: true
+draft: false
 featured_image: "ra-dragon-Uwq_F5G4yOo-unsplash.jpg"
 ---
 
