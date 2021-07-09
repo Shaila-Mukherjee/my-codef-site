@@ -17,9 +17,10 @@ This is a fuss free platform where you share what you write and amateur writing 
 
 1. Paste your article in the box below
 2. Also put your details in the text box (which you would like to see being published). 
-3. Inform me if you need any customisation on the page which would contain your writeup. Also type this in the comment box. 
+3. Inform me if you need any customization on the page which would contain your writeup. Also type this in the comment box. 
 4. Wait a few days for the upload
-5. That is it! Congatulations, you are officially a writer! 
+5. That is it! Congratulations, you are officially a writer! 
+
 
 <form action="/html/tags/html_form_tag_action.cfm" method="post">
 <div>
@@ -29,6 +30,8 @@ Paste your article here!
 </div>
 <input type="submit" value="Submit">
 </form>
+
+
 
 
 

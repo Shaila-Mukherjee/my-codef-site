@@ -20,7 +20,7 @@ Fintern is your solution. As a fellow finance intern, I created this website aft
 
 ---
 
-Financial instituations are looking for individuals who are:
+Financial institutions are looking for individuals who are:
 
 - <p class="tl">self - starters </p>
 
